@@ -1,0 +1,13 @@
+Code: Form Input Types
+
+For now, we have created a simple form. But there is a problem that the inputs can take any value other than what they are meant to be.
+So, we need to change the type of the input element for proper functioning. Your task is to change the type of input according to the meaning of each of them.
+
+
+The meaning of each input element is provided below -
+1. Comment - to provide a comment for the blog
+2. Name - the name of the person who wants to comment on the blog.
+3. Email - to provide the email id of the person.
+4. Website - to provide the link to a website that belongs to the above said person.
+
+The expected output is - https://ninjasfiles.s3.amazonaws.com/0000000000001482.png

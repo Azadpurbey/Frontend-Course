@@ -1,0 +1,12 @@
+Finalize the Form
+
+We have now build a form that accepts the correct input. But we have some problems in form for now.
+The form values are not being submitted for now and the comment box is very small in size.
+So, we need to make the form to submit the input values and change the comment input box.
+
+
+Necessary additional information is provided below -
+1. The comment box now has dimensions of 10*30.
+2. The form is submitted by clicking on 'Post Comment'.
+
+Expected blog page is - https://ninjasfiles.s3.amazonaws.com/0000000000001484.png
