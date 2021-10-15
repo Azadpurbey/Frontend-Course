@@ -1,0 +1,14 @@
+Add View Section to Blog
+
+
+Let's add a view section to our blog, which represents the number of visits to our blog.
+Although it would be static for now, we can change it to dynamic later.
+So, we will use some text formatting tags to add the views section. The instructions are provided below.
+Note: The text formatting tags are always inline.
+
+
+Instructions to follow -
+1. Add a separate view section inside the article in the container of the first image of the article.
+2. Now, add 2 span's with content as: 'Views:' and '1,137'. Make these span's bold using the appropriate text formatting tag.
+
+Expected Blog page is - https://ninjasfiles.s3.amazonaws.com/0000000000001402.png

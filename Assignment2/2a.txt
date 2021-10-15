@@ -1,0 +1,23 @@
+Add Semantic Tag to Blog
+
+Now, knowing the importance of DIV and Semantic tags, we will apply it to our blog page as well.
+
+So, divide your page into several sections eg., header, main, etc., whichever apply in your case.
+
+Remember, we use DIV to divide the page into meaningful sections and sometimes to apply some properties.
+
+So, there's nothing wrong and right while dividing your page, just don't add unnecessarily.
+
+Some hints are provided below.
+
+Note: Always apply one
+just after tag and then put everything inside it, i.e. header, main and footer.
+
+
+Hints to add semantic tags -
+1. Make header section for the web page.
+2. Make the main section for the blog.
+3. Make header section for the blog.
+4. Make article section for the blog.
+
+The blog page look the same as in the image below - https://ninjasfiles.s3.amazonaws.com/0000000000001401.png
